@@ -14,4 +14,8 @@ insert flip-flop to input and output can prevent this .
 
 ### 3.3 state machines use Flip-Flops to store the value of current state variables. Explain why?
 
+## timing analysis 
 
+https://www.youtube.com/watch?v=6D-w8mOttnE&t=247s
+
+![image](https://user-images.githubusercontent.com/121833181/211170484-9b3c0a32-aa80-4012-bc60-713b10ccde04.png)
