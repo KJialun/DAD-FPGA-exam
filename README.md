@@ -9,11 +9,6 @@
 insert flip-flop to input and output can prevent this .
 - Moore machines are safer because they used registered values of the state.
 
-
-### 3.2 Explain what is one-hot state encoding, what are the benefits and why this type of encoding is well suited for FPGA implementation.
-
-### 3.3 state machines use Flip-Flops to store the value of current state variables. Explain why?
-
 ## timing analysis 
 
 https://www.youtube.com/watch?v=6D-w8mOttnE&t=247s
